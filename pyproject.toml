@@ -5,7 +5,7 @@ description = ""
 authors = ["Leander0694 <leandersavio@live.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 Flask = "^2.2.2"
 flask-sqlalchemy = "^3.0.2"
 Flask-Login = "^0.6.2"
